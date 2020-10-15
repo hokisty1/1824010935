@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+        <style>
+        div {
+          background-color: lightgrey;
+          width: 300px;
+          border: 15px solid green;
+          padding: 50px;
+          margin: 20px;
+        }
+        </style>
+    
+        </head>
+        <body>
+
+                <p><b><a href="default.asp" target="_blank">This is a link</a></b></p>
+                <p><b>Note:</b> a:hover MUST come after a:link and a:visited in the CSS definition in order to be effective.</p>
+                <p><b>Note:</b> a:active MUST come after a:hover in the CSS definition in order to be effective.</p>
+         
+        <h1>Demonstrating the Box Model</h1>
+        
+        <p>The CSS box model is essentially a box that wraps around every HTML element. It consists of: borders, padding, margins, and the actual content.</p>
+        
+        <div>This text is the content of the box. We have added a 50px padding, 20px margin and a 15px green border. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+        
+<p>Example of unordered lists:</p>
+<ul class="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<ul class="b">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<p>Example of ordered lists:</p>
+<ol class="c">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+<ol class="d">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+        </body>
+    <style>
+        body {
+          background-color: lightblue;
+        }
+        </style>
+        </head>
+        <body>
+    <link rel="stylesheet" href="mystyle.css">
+
+    <style>
+        div {
+          border: 1px solid black;
+          margin-top: 100px;
+          margin-bottom: 100px;
+          margin-right: 150px;
+          margin-left: 80px;
+          background-color: rgb(173, 230, 173);
+    
+<body>
+
+<h1>This is a heading</h1>
+<h2 style="color:Tomato;">Hello World</h2>
+
+<p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+<p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+
+<p>Th
+    <h1 style="background-color:DodgerBlue;">Hello World</h1>
+
+<p style="background-color:Tomato;">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+</p>
+    <style>
+        /* This is a single-line comment */
+        li {
+  display: inline;
+}
+</style>
+</head>
+<body>
+
+<p>Display a list of links as a horizontal menu:</p>
+
+<ul>
+  <li><a href="/html/default.asp" target="_blank">HTML</a></li>
+  <li><a href="/css/default.asp" target="_blank">CSS</a></li>
+  <li><a href="/js/default.asp" target="_blank">JavaScript</a></li>
+</ul>
+
+        <body>
+            <h2>Add a border to a table:</h2>
+
+            <table>
+              <tr>
+                <th>Firstname</th>
+                <th>Lastname</th>
+              </tr>
+              <tr>
+                <td>Peter</td>
+                <td>Griffin</td>
+              </tr>
+              <tr>
+                <td>Lois</td>
+                <td>Griffin</td>
+              </tr>
+            </table>
+            
+        <p>Every paragraph will be affected by the style.</p>
+        <p id="para1">Me too!</p>
+        <p>And me!</p>
+        
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+</body>
+<body>
+    <i class="fas fa-cloud"></i>
+    <i class="fas fa-heart"></i>
+    <i class="fas fa-car"></i>
+    <i class="fas fa-file"></i>
+    <i class="fas fa-bars"></i>
+    
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
